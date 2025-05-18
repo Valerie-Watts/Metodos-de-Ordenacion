@@ -89,3 +89,5 @@ Todos los métodos, al finalizar, deberían entregar este resultado si fueron im
 Desarrollado como ejercicio académico para ilustrar y comparar algoritmos de ordenación clásicos usando C#.
 
 ```
+Valerie Watts Feria
+```
